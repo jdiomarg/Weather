@@ -80,9 +80,7 @@ h1 {
 .app .description {
   text-align: right;
   position: relative;
-  /* right: -90%; */
   transform-origin: 0 0;
-  /* transform: rotate(269deg); */
 }
 
 .app .bottom {
@@ -131,4 +129,9 @@ h1 {
 
 .yourLocation {
   padding-top: 20px;
+}
+
+.imageBox {
+  display: flex;
+  justify-content: center;
 }
