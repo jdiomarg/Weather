@@ -135,3 +135,9 @@ h1 {
   display: flex;
   justify-content: center;
 }
+
+.appName {
+  font-size: 3rem;
+  text-align: center;
+  padding: 20px;
+}

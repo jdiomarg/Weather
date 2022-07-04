@@ -53,6 +53,7 @@ function App() {
   return (
     <div className="app">
       <div className="container">
+        <h1 className='appName'>Weather App</h1>
         <div className="top">
           <div className="location">
             <p>Your Current Location is:</p>
